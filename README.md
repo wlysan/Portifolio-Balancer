@@ -13,8 +13,8 @@ Este projeto implementa um algoritmo genético para otimizar a seleção de um p
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
+    git clone https://github.com/wlysan/Portifolio-Balancer.git
+    cd Portifolio-Balancer
     ```
 
 2. Instale as dependências necessárias:
