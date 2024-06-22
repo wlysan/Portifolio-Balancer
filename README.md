@@ -121,8 +121,8 @@ This project implements a genetic algorithm to optimize the selection of a finan
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repository.git
-    cd your-repository
+    git clone https://github.com/wlysan/Portifolio-Balancer.git
+    cd Portifolio-Balancer
     ```
 
 2. Install the required dependencies:
